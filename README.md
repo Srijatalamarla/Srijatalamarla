@@ -1,4 +1,4 @@
-# About
+## Hi there 👋
 I'm Srija, an engineer focused on building web applications.
 
 ## Skills
